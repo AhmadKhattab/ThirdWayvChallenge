@@ -8,7 +8,7 @@
 import XCTest
 @testable import ThirdWayvChallenge
 
-class ProductsViewModelTests: XCTestCase {
+final class ProductsViewModelTests: XCTestCase {
     // MARK: - properties
     var sut: ProductsViewModel!
     var productsRepositoryFake: ProductsRepository!
