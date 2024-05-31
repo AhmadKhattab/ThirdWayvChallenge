@@ -1,0 +1,11 @@
+//
+//  ConfigDev.xcconfig
+//  ThirdWayvChallenge
+//
+//  Created by Ahmad Ashraf Khattab on 16/12/2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+SERVER_URL = amock.io/api/AhmadKhatta
